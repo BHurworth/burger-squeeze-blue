@@ -67,11 +67,11 @@
   -webkit-transform: rotate(-45deg);
       -ms-transform: rotate(-45deg);
           transform: rotate(-45deg);
-          rgba(99,128,235, 0.8)}
+          color: rgba(99,128,235, 0.8)}
 
 .burger.burger-squeeze.open .burger-lines:after {
   -webkit-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
           transform: rotate(45deg);
-           rgba(99,128,235, 0.8);
+           color: rgba(99,128,235, 0.8);
 }
